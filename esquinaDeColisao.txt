@@ -1,0 +1,12 @@
+int icm = xm + mestre->bitmap->w - xn;
+int jcm = ym + mestre->bitmap->h - yn;
+
+int ifm = mestre->bitmap->w;
+int jfm = mestre->bitmap->h;
+
+int icn = 0;
+int jcn = 0;
+
+int ifn = xm + mestre->bitmap->w - xn;
+int jfn = ym + mestre->bitmap->h - yn;
+
